@@ -1,2 +1,2 @@
-# hoozz.github.io
+# Hoozz Home Page
 Hoozz Home
